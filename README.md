@@ -126,7 +126,7 @@ export const postsApi = createApi({
 
 ## Contributors
 
-- [Your Name](https://github.com/abdur-shobur)
+- [Abdur Shobur](https://github.com/abdur-shobur)
 
 ---
 
