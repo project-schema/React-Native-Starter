@@ -1,6 +1,5 @@
 ## `README.md` for React Native App
 
-```markdown
 # My React Native App
 
 A modern React Native application built with:
@@ -25,40 +24,41 @@ A modern React Native application built with:
 ---
 
 ## Folder Structure
+
 ```
 
-app/  
-├── \_layout.tsx  
-├── index.tsx  
-├── counter.tsx  
-├── posts.tsx  
+app/
+├── \_layout.tsx
+├── index.tsx
+├── counter.tsx
+├── posts.tsx
 │
-components/  
-├── NavMenu.tsx  
+components/
+├── NavMenu.tsx
 │
-features/  
+features/
 ├── counter/
 │ ├── CounterScreen.tsx
 │ ├── counterSlice.ts
 │
 ├── posts/
 │ ├── PostsScreen.tsx
-│ ├── postsApi.ts  
+│ ├── postsApi.ts
 │
-├── store.ts  
+├── store.ts
 │
-hooks/  
+hooks/
 ├── useAppDispatch.ts
 ├── useAppSelector.ts
 │
-utils/  
-├── apiClient.ts  
+utils/
+├── apiClient.ts
 │
-assets/  
+assets/
 ├── images/
 ├── fonts/
 
-````
+```
 
 ---
 
@@ -70,7 +70,7 @@ npm install
 
 # Run Expo project
 npx expo start
-````
+```
 
 ---
 
@@ -133,11 +133,3 @@ export const postsApi = createApi({
 ## License
 
 [MIT](./LICENSE)
-
-```
-
-
-
-
-
-```
