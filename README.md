@@ -1,5 +1,3 @@
-## `README.md` for React Native App
-
 # My React Native App
 
 A modern React Native application built with:
